@@ -121,7 +121,7 @@ student-performance-prediction/
 │   └── Residual_Plot.png
 │
 ├── report/
-│   └── Student_Progress_Prediction_Project_Report.docx
+│   └── Student_Performance_Prediction_Project_Report.docx
 │
 ├── README.md
 └── requirements.txt
